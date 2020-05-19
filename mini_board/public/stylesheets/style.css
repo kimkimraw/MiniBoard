@@ -1,0 +1,66 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: rgba(0,180,180,.7);
+  text-align: center;
+}
+
+a {
+  color: rgba(100,0,255,1);
+}
+
+h1 {
+  	color: rgba(100,0,255,1);
+	text-decoration: none;
+}
+
+h2 {
+  	color: rgba(100,0,255,1);
+	font: 20px "Lucida Grande" , Helvetica, Arial, sans-serif;
+}
+
+
+
+p {
+	color: rgba(100,0,255,1);
+	font: 14px "Lucida Grande" , Helvetica, Arial, sans-serif;
+	margin : 0px 20px;
+}
+
+form{
+	display: inline-block;
+	text-align: center;
+}
+
+table {
+	height: 60vh;
+	width: 70vw;
+
+	background-color: red;
+	margin-left:  auto;
+	margin-right: auto;
+
+}
+
+table tr th {
+	background-color: #999;
+	color: #fff;
+	height: 5vh;
+	width:30vw;
+}
+
+td input{
+	height: 5vh;
+	width:20vw;
+	margin: 0;
+}
+
+.error {
+	color: red;
+}
+
+
