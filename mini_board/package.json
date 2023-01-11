@@ -15,7 +15,7 @@
     "express-validator": "^6.4.0",
     "fund": "^1.0.0",
     "http-errors": "^1.6.3",
-    "knex": "^0.20.12",
+    "knex": "^2.4.0",
     "morgan": "^1.9.1",
     "mysql": "^2.18.1",
     "npm": "^6.14.4",
